@@ -1,0 +1,15 @@
+# virtual environments
+venv/
+.env
+
+# compiled python files
+*.pyc
+*.pyo
+__pycache__/
+
+#  IDEs configuration files
+.vscode/
+.idea/
+
+# dependencies files
+requirements.txt
